@@ -1,0 +1,9 @@
+c:\users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\bin\Debug\Affiliate.exe.config
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\bin\Debug\Affiliate.exe
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\bin\Debug\Affiliate.pdb
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\obj\Debug\Affiliate.csprojResolveAssemblyReference.cache
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\obj\Debug\Affiliate.exe
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\obj\Debug\Affiliate.pdb
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ravindran\documents\visual studio 2015\Projects\Affiliate\Affiliate\bin\Debug\Mono.HttpUtility.dll
